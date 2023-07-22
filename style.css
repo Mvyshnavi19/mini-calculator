@@ -1,0 +1,22 @@
+h3{
+    text-align:center;
+}
+.button{
+    padding:15px 15px;
+    margin: 0px 2px;
+    border-radius: 8px;
+    cursor:pointer;
+    background-color: lightgray;
+}
+.rows,#result{
+    padding:5px 5px;
+    text-align: center;
+}
+
+#container{
+   padding-top: 20px;
+   padding-bottom: 20px;
+   text-align:center;
+    justify-content: center;
+    align-items:center;
+}
